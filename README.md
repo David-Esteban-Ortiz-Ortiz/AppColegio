@@ -1,4 +1,3 @@
 # AppColegio
 Nombres:
-David Ortiz
-David Pasaje
+Juan David Delgado-David Ortiz-David Pasaje
